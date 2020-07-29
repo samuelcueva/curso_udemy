@@ -1,1 +1,1 @@
-# # Curso de Tensorflow 2.0 en Udemy -Juan Gabriel Gomila
+# # Curso de Tensorflow 2.0 
